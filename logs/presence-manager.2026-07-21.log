@@ -1,0 +1,14 @@
+2026-07-21 10:06:59 [SwingWorker-pool-1-thread-1] INFO  com.zaxxer.hikari.HikariDataSource - PresenceManagerPool - Starting...
+2026-07-21 10:07:04 [SwingWorker-pool-1-thread-1] INFO  com.zaxxer.hikari.pool.HikariPool - PresenceManagerPool - Added connection org.sqlite.jdbc4.JDBC4Connection@6d584d8c
+2026-07-21 10:07:04 [SwingWorker-pool-1-thread-1] INFO  com.zaxxer.hikari.HikariDataSource - PresenceManagerPool - Start completed.
+2026-07-21 10:07:04 [SwingWorker-pool-1-thread-1] INFO  c.s.presence.dao.DatabaseManager - Schema de base de donnees initialise avec succes (2026-07-21T10:07:04.500947100)
+2026-07-21 10:07:04 [SwingWorker-pool-1-thread-1] INFO  com.strata.presence.Main - Strata Presence Manager demarre.
+2026-07-21 10:08:04 [Timer-0] INFO  c.s.presence.dao.DatabaseManager - Sauvegarde automatique effectuee : data\backups\presence_2026-07-21T10-08-04.845884600.db
+2026-07-21 10:10:23 [AWT-EventQueue-0] INFO  c.s.p.service.AttendanceService - Arrivee enregistree automatiquement : personne=2, date=2026-07-21, heure=10:10:23.580719100
+2026-07-21 10:11:57 [SwingWorker-pool-1-thread-2] INFO  com.github.sarxos.webcam.Webcam - WebcamDefaultDriver capture driver will be used
+2026-07-21 10:11:58 [atomic-processor-1] INFO  c.g.s.webcam.ds.cgt.WebcamOpenTask - Opening webcam Integrated Camera 0
+2026-07-21 10:12:06 [atomic-processor-1] INFO  c.g.s.webcam.ds.cgt.WebcamCloseTask - Closing Integrated Camera 0
+2026-07-21 10:12:14 [AWT-EventQueue-0] INFO  c.s.p.service.AttendanceService - Arrivee enregistree automatiquement : personne=3, date=2026-07-21, heure=10:12:14.913512
+2026-07-21 10:15:00 [atomic-processor-1] INFO  c.g.s.webcam.ds.cgt.WebcamOpenTask - Opening webcam Integrated Camera 0
+2026-07-21 10:16:31 [atomic-processor-1] INFO  c.g.s.webcam.ds.cgt.WebcamCloseTask - Closing Integrated Camera 0
+2026-07-21 10:16:55 [AWT-EventQueue-0] INFO  c.s.p.service.AttendanceService - Arrivee enregistree automatiquement : personne=4, date=2026-07-21, heure=10:16:55.102707700

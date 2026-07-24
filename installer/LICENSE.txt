@@ -1,0 +1,11 @@
+STRATA PRESENCE MANAGER - CONTRAT DE LICENCE UTILISATEUR
+
+Copyright (c) 2026 Strata Agency. Tous droits reserves.
+
+Ce logiciel est fourni pour un usage interne a l'entreprise. Toute redistribution,
+modification ou revente sans autorisation ecrite de Strata Agency est interdite.
+
+Le logiciel est fourni "en l'etat", sans garantie d'aucune sorte.
+
+(Remplacer ce texte par les conditions de licence reelles validees par le
+service juridique de l'entreprise avant toute distribution officielle.)
