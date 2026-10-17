@@ -11,7 +11,7 @@ if exist "target\presence-manager.jar" (
 ) else if exist "presence-manager.jar" (
   java -jar "presence-manager.jar"
 ) else (
-  echo Fichier presence-manager.jar introuvable.
+  echo Fichier presence-manager.jar non trouvable.
   echo Avez-vous bien execute "mvn clean package" au prealable ?
   pause
   exit /b 1
