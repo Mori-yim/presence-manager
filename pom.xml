@@ -124,7 +124,7 @@
             <version>1.5.6</version>
         </dependency>
 
-        <!-- Tests -->
+        <!-- Tests unitaires -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
