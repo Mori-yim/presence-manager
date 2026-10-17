@@ -32,7 +32,7 @@
             <version>3.4.1</version>
         </dependency>
 
-        <!-- Layout de formulaires -->
+        <!-- Layout des formulaires -->
         <dependency>
             <groupId>com.miglayout</groupId>
             <artifactId>miglayout-swing</artifactId>
@@ -46,7 +46,7 @@
             <version>3.46.0.0</version>
         </dependency>
 
-        <!-- Generation de QR Code (badges) -->
+        <!-- Generation de QR Codes (badges) -->
         <dependency>
             <groupId>com.google.zxing</groupId>
             <artifactId>core</artifactId>
