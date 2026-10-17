@@ -20,7 +20,7 @@
     </properties>
 
     <dependencies>
-        <!-- Look & Feel moderne -->
+        <!-- Look and  Feel moderne -->
         <dependency>
             <groupId>com.formdev</groupId>
             <artifactId>flatlaf</artifactId>
